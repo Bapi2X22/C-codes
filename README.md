@@ -1,3 +1,3 @@
 # C-codes
 
-Some basic c++ codes
+Some basic object-oriented programming in C++.
